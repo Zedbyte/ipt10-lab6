@@ -1,0 +1,5 @@
+[2024-09-12T13:26:16.422639+02:00] ipt10.INFO: C:\xampp\htdocs\ipt10-lab6\src\index.phpGreetings to ipt10 [] []
+[2024-09-12T13:26:16.424592+02:00] ipt10.INFO: TestClass::greetGreetings to Mark Jerome Santos [] []
+[2024-09-12T13:26:16.424750+02:00] ipt10.INFO: TestClassget the average: 1706 [] []
+[2024-09-12T13:26:16.424841+02:00] ipt10.INFO: TestClassGet the largest number: 6734 [] []
+[2024-09-12T13:26:16.424923+02:00] ipt10.INFO: TestClassGet the smallest number: -99 [] []
